@@ -1,0 +1,15 @@
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\refint\CleanArch.Application.dll
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
