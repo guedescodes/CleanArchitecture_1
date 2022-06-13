@@ -1,11 +1,3 @@
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.csproj.AssemblyReference.cache
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.AssemblyInfoInputs.cache
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.AssemblyInfo.cs
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.csproj.CoreCompileInputs.cache
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.RazorAssemblyInfo.cache
-C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.RazorAssemblyInfo.cs
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\appsettings.json
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.MVC.StaticWebAssets.xml
@@ -17,6 +9,7 @@ C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanAr
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.MVC.pdb
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.MVC.Views.dll
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.MVC.Views.pdb
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\Humanizer.dll
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -66,7 +59,15 @@ C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanAr
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.Infra.Ioc.pdb
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.Application.pdb
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.csproj.AssemblyReference.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.AssemblyInfoInputs.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.AssemblyInfo.cs
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.csproj.CoreCompileInputs.cache
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.RazorAssemblyInfo.cache
+C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\CleanArch.MVC.RazorAssemblyInfo.cs
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\scopedcss\bundle\CleanArch.MVC.styles.css
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\staticwebassets\CleanArch.MVC.StaticWebAssets.Manifest.cache
 C:\Users\p-gue\Desktop\GuedesCode\Personal\CleanArchitecture_1\CleanArch\CleanArch.MVC\obj\Debug\net5.0\staticwebassets\CleanArch.MVC.StaticWebAssets.xml

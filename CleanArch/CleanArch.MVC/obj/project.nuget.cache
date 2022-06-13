@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Xc6C/5pKccpB/jh9GbkgPvgb/UaKnru1xQ0eV5fCpaHbXfenGM8SlFYZXpi8zlU2yUkXPNmJKibSnRbpXl9dNA==",
+  "dgSpecHash": "0qfDNTqyTR9Ez7to6QW2+jTtKBnlitL6OwHqzimcCH3fofqnPZUf+elh6EHvEtZAcyxAyoPi9iaAQBDxeyVYrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\p-gue\\Desktop\\GuedesCode\\Personal\\CleanArchitecture_1\\CleanArch\\CleanArch.MVC\\CleanArch.MVC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\p-gue\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\p-gue\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\p-gue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
     "C:\\Users\\p-gue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.17\\microsoft.aspnetcore.cryptography.keyderivation.5.0.17.nupkg.sha512",
